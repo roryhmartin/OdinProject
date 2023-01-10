@@ -1,0 +1,3 @@
+for examples of centering divs etc go to D:OdinProject\foundations\css-exercises\flex folder and read title names 
+
+01-flex-center is about centering a div using only flexbox

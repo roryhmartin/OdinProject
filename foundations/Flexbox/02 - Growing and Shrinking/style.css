@@ -1,0 +1,25 @@
+* {
+    background-color: peachpuff;
+    box-sizing: border-box;
+}
+.home,
+.logout {
+    background-color: cadetblue;
+    flex: 1;
+}
+
+.search {
+    background-color: aliceblue;
+}
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+}
+
+.container > div {
+    /* flex: 1; */
+}
+
+.search {
+    width: 300px;
+}
